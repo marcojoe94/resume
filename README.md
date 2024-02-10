@@ -4,8 +4,8 @@
 * [2. Work Experience](#2-work-experience)
 * [3. Hard Skills](#3-hard-skills)
 * [4. Soft Skills](#4-soft-skills)
-* [5. Education](#5-education-)
-* [6. Social Activities](#6-social-activities-)
+* [5. Education](#5-education)
+* [6. Social Activities](#6-social-activities)
 <!-- TOC -->
 
 ## 1. About Myself
