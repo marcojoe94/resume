@@ -15,7 +15,7 @@
 - Problem-solving and teamwork oriented.
 - Fascinated by software design and architectures, in fact, I enjoy studying patterns to create flexible and
   customizable solutions, with the aim of writing easily reusable code.
-- Interested in A.I. development
+- Interested in A.I. development.
 - And of course, I like lists.
 
 ### Contact Information
@@ -45,13 +45,12 @@
   systems like Redis through different client interfaces. Moreover, I enhanced the data module, leveraging Spring Data,
   to customize database connections provided by Azure Cloud.
 - Code Review on PR from external contributors.
-- Partecipate in development of microservices with a focus on async communication through event-driven paradigm.
+- Development of microservices with a focus on async communication through event-driven paradigm.
 
 **Main Achieved Goals:**
 
-- Led the development of a new Spring Cloud Stream Binder, using REST for consumer-side and Cosmos DB for producer-side.
-  This Binder communicates using the Cloud Event standard. The HTTP section can be swapped with a GRPC connector for
-  enhanced flexibility in event communication.
+- I Led the development of a new Spring Cloud Stream Binder, using REST for consumer-side and Cosmos DB for producer-side.
+This Binder communicates using the Cloud Event standard. The HTTP section can be swapped with a GRPC connector for enhanced flexibility in event communication.
 
 ### <img src="./resources/filled_arrow_right.png" width="20" height="15"> Software Care
 
@@ -59,15 +58,15 @@
 
 **What I've partecipated in:**
 
-- Defined product requirements in collaboration with stakeholders.
-- Defined software design and executed backend development.
-- Managed development teams for backend, frontend, and mobile projects.
+- Defining Product requirements in collaboration with stakeholders.
+- Software design and performed backend development.
+- Managing development teams for backend, frontend, and mobile projects.
 
 **Main Achieved Goals:**
 
-- Designed the initial prototype of a system, serving as a component within a larger platform: this component was
-  responsible for handling the submission of informed consents for medical treatments. It was based on a Spring Boot
-  microservice as ashared backend for a Vue micro frontend and a Flutter package.
+- I Designed the initial prototype of a system, serving as a component within a larger platform: 
+this component was responsible for handling the submission of informed consents for medical treatments.
+It was based on a Spring Boot microservice as a shared backend for a Vue micro frontend and a Flutter package.
 
 **Role:** Java and Python software engineer | 08/2020 - 01/2022
 
@@ -78,12 +77,13 @@
 
 **Main Achieved Goals:**
 
-- Developed and Designed a mini-framework that made it easy to build chatbots and virtual assistants. This framework
-  allowed for the creation of such applications by defining a few configuration classes specifying only the states and
-  transitions.
-- Completely redesigned the therapy section of a clinical management system, maximizing customization in the
-  administration methods for various drug types. Achieved this by integrating one of the most up-to-date drug databases
-  in Italy for reference.
+- I designed and developed a mini-framework to easily build chatbots 
+and virtual assistants by using simple configuration classes to define 
+states and transitions.
+- Completely redesigned the therapy section of a clinical management system,
+maximizing customization in the administration methods for various drug types.
+I Achieved this by integrating one of the most up-to-date drug databases in Italy 
+for reference.
 
 ### <img src="./resources/filled_arrow_right.png" width="20" height="15"> SenseSquare
 
@@ -91,20 +91,20 @@
 
 **What I've partecipated in:**
 
-- Developed and designed software for a cloud-based environmental pollution monitoring system.
-- Designed embedded software for atmospheric monitoring units.
+- Software development and design for a cloud-based environmental pollution monitoring system.
+- Design of embedded software for atmospheric monitoring units.
 - Tutoring for bachelor's degree internship students.
  
 **Main Achieved Goals:**
-- Deployed a system that collected data from approximately 70 monitoring units distributed across Italy 
-with a focus on data aggregation in order to extract geolocated pollution indices.
+- I Deployed a system that collected data from approximately 70 monitoring units distributed 
+across Italy with a focus on data aggregation in order to extract geolocated pollution indices.
 
 ### <img src="./resources/filled_arrow_right.png" width="20" height="15">  PINapp SRL
 
 **Role:** _Freelance Software Engineer | 01/2019 - 06/2019_
 
 **What I've partecipated in:**
-- Developed a Facebook Messanger chatbot for a sales management system.
+- Developement of a Facebook Messanger chatbot for a sales management system.
 
 ## 3. Hard Skills
 
